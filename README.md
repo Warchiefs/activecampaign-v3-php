@@ -1,3 +1,6 @@
+# About this fork
+It was created to allows to use with guzzle version 7+.
+
 # Active Campaign v3 PHP Wrapper
 
 Unofficial PHP Wrapper for ActiveCampaign API v3.
