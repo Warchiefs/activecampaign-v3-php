@@ -1,5 +1,6 @@
 # About this fork
 It was created to allows to use with guzzle version 7+.
+`"warchiefs/activecampaign-v3-php": "dev-master",`
 
 # (Original readme) Active Campaign v3 PHP Wrapper
 
